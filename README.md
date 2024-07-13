@@ -6,7 +6,7 @@ termx is a command for termux. You can install pkg or open or access nano. It is
 <h1>how use?</h1>
 For installation instructions, you can go to the release or go to my site and install.
 
-<a href="">Click here</a> for installation instructions 
+<a href="Howinstall.md">Click here</a> for installation instructions 
 <h1>Known bugs and bugs not yet fixed </h1>
 
 none bug
