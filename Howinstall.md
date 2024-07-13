@@ -9,4 +9,5 @@ Run the termux app. (If you do not have the termux app, you can install it from 
 Then type `cd /sdcard/Dowload` and then `bash termx.sh` and you are done. 
 
 ©️2024 ÕAdev
+<br>
 code type: shell or termux app
