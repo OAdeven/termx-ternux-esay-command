@@ -11,4 +11,4 @@ For installation instructions, you can go to the release or go to my site and in
 
 none bug
 
-found bug? my website or issuse report.
+found bug? please issuse report
