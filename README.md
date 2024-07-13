@@ -4,6 +4,12 @@
 termx is a command for termux. You can install pkg or open or access nano. It is especially suitable for beginners. 
 
 <h1>how use?</h1>
-For installation instructions, you can go to the release or go to my site and install. After installation, run the termux app (if you don't have the app, compress the zip file installed together and install it.) Then enter "cd /sdcard/Dwnload". Then type "bash termx.sh" and you're done. 
+For installation instructions, you can go to the release or go to my site and install.
+
+For installation instructions, see how install.
 
 <h1>Known bugs and bugs not yet fixed </h1>
+
+none bug
+
+found bug? my website or issuse report.
